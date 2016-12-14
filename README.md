@@ -1,4 +1,6 @@
 # nice-one
+[![npm version](https://badge.fury.io/js/nice-one.svg)](https://badge.fury.io/js/nice-one)
+
 *Yeah yeah, it should never happen.*
 
 But sometimes merge conflicts in unchecked files get through and checked in. *That's no good 😬 😬 😬* 
