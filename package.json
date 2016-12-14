@@ -1,0 +1,14 @@
+{
+  "name": "nice-one",
+  "version": "1.0.0",
+  "description": "A gulp plugin for catching comitted merge conflicts in the test phase    -___- ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brant Stuns",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^2.0.3"
+  }
+}
